@@ -14,8 +14,6 @@ Skills: JAVA / PYTHON / R / SQL / JSON / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilchandran1&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilchandran1&layout=compact)](https://github.com/akhilchandran1/github-readme-stats)
-
 
 
 
