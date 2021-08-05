@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Akhil Chandran
 #### Data Science / Data Analytics / Software Development / Full Stack Development
-![Data Science / Data Analytics / Software Development / Full Stack Development](https://www.akhilchandran.info/)
 
 I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science (Honours) in Computing and IT graduate. I really enjoy learning languages and solving problems.
 
