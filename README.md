@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/akhilchandran1/akhilchandran1/blob/main/GitHub_banner.jpeg)
 
-### Hi there 👋, I am Akhil Chandran
+### Hi there 👋
 #### Data Science / Data Analytics / Software Development / Full Stack Development
 
 I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science (Honours) in Computing and IT graduate. I really enjoy learning languages and solving problems.
