@@ -10,8 +10,6 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 * 🎨 Photoshop
 
 
-Skills: JAVA / PYTHON / R / SQL / JSON / JS / HTML5 / CSS3
-
 - 🔭 I’m currently working on Data analytics and predictive modelling 
 - 📫 How to reach me: akhil9216@gmail.com 
 
