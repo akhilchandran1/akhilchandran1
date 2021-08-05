@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/akhilchandran1/akhilchandran1/blob/main/GitHub_banner.jpeg)
+
 ### Hi there 👋, I am Akhil Chandran
 #### Data Science / Data Analytics / Software Development / Full Stack Development
 
