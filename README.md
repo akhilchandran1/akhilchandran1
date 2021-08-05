@@ -10,7 +10,7 @@ Skills: JAVA / PYTHON / R / SQL / JSON / JS / HTML / CSS
 - 📫 How to reach me: akhil9216@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/akhilchandran1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-chandran//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/akhil9496)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.akhilchandran.info/)  
+[<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/GitHub_banner.jpeg' alt='github' height='40'>](https://github.com/https://github.com/akhilchandran1)  [<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-chandran//)  [<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/Twitter-logo-2012.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/akhil9496)  [<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/web.png' alt='website' height='40'>](https://www.akhilchandran.info/)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilchandran1&hide=contribs,prs)
 
