@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/akhilchandran1/akhilchandran1/blob/main/GitHub_banner.jpeg)
+![Design and Development](https://github.com/akhilchandran1/akhilchandran1/blob/main/GitHub_banner.png)
 
 ### Hi there 👋
 
