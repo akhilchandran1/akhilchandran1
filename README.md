@@ -6,7 +6,7 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 
 ## Skills:
 
-* 💻 Python, R, Java, SQL, JSON, HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript
+* 💻 HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, Python, R, Java, SQL, JSON
 * 📱 Ionic, Angular, TypeScript
 * 🎨 Photoshop
 
