@@ -11,10 +11,11 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 * 🎨 Photoshop
 
 
-### Few of my recent projects:
+### Few of my projects:
+
+- 👨🏻‍💻 [My Portfolio (code)](https://github.com/akhilchandran1/My_Portfolio) / [My Portfolio (Live)](https://www.akhilchandran.info/)
 - 🪴 [Plant disease detection using CNN](https://github.com/akhilchandran1/Plant-_disease_detection-CNN-/blob/main/Akhil_Chandran_plant_Disease_Classification.ipynb)
 - 📈 [Exploratory Data Analysis(EDA) and ANN Implementation](https://www.akhilchandran.info/portfolio/data_analysis/eda-ann.html)
-- 👨🏻‍💻 [My Portfolio (code)](https://github.com/akhilchandran1/My_Portfolio) / [My Portfolio (Live)](https://www.akhilchandran.info/)
 
 ## Contact:
 - 📫 How to reach me: akhil9216@gmail.com 
