@@ -11,8 +11,6 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 * 🎨 Photoshop
 
 
-- 🔭 I’m currently learning JavaScript
-
 ### Few of my recent projects:
 - 🪴 [Plant disease detection using CNN](https://github.com/akhilchandran1/Plant-_disease_detection-CNN-/blob/main/Akhil_Chandran_plant_Disease_Classification.ipynb)
 - 📈 [Exploratory Data Analysis(EDA) and ANN Implementation](https://www.akhilchandran.info/portfolio/data_analysis/eda-ann.html)
