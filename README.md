@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science (Honours) in Computing and IT graduate. I really enjoy learning languages and solving problems.
+I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science (Honours) in Computing and IT graduate. I really enjoy learning programing languages and solving problems.
 
 ## Skills:
 
