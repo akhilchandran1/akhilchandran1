@@ -13,10 +13,10 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 
 ### Few of my projects:
 
-- 👨🏻‍💻 [My Portfolio (code)](https://github.com/akhilchandran1/My_Portfolio) / [My Portfolio (Live)](https://www.akhilchandran.info/)
-- 👨🏻‍💻 [Project planner (code)](https://github.com/akhilchandran1/project-planner)
-- 🎬 [Fevorate movies (code)](https://github.com/akhilchandran1/fevorate-movies-webpage)
-- 🧟‍♀️ [Monster attack game (code)](https://github.com/akhilchandran1/monster-attack-game)
+- 👨🏻‍💻 [My Portfolio (code)](https://github.com/akhilchandran1/My_Portfolio) / [Live](https://www.akhilchandran.info/)
+- 👨🏻‍💻 [Project planner (code)](https://github.com/akhilchandran1/project-planner) / [Live](https://www.akhilchandran.info/portfolio/sample-web-page-projects/project-planner/)
+- 🎬 [Fevorate movies (code)](https://github.com/akhilchandran1/fevorate-movies-webpage) / [Live](https://www.akhilchandran.info/portfolio/sample-web-page-projects/fevorate-movies-webpage/)
+- 🧟‍♀️ [Monster attack game (code)](https://github.com/akhilchandran1/monster-attack-game) / [Live](https://www.akhilchandran.info/portfolio/sample-web-page-projects/monster-attack-game/)
 - 📄 [Paper rock cissor game (code)](https://github.com/akhilchandran1/paper-rockscissor_game)
 - 👨🏻‍💻 [A portfolio webpage with a voice chat boat support (code)](https://github.com/akhilchandran1/myPortfolio)
 - 🪴 [Plant disease detection using CNN](https://github.com/akhilchandran1/Plant-_disease_detection-CNN-/blob/main/Akhil_Chandran_plant_Disease_Classification.ipynb)
