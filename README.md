@@ -18,6 +18,7 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 - 🎬 [Fevorate movies (code)](https://github.com/akhilchandran1/fevorate-movies-webpage)
 - 🧟‍♀️ [Monster attack game (code)](https://github.com/akhilchandran1/monster-attack-game)
 - 📄 [Paper rock cissor game (code)](https://github.com/akhilchandran1/paper-rockscissor_game)
+- 👨🏻‍💻 [A portfolio webpage with a voice chat boat support (code)](https://github.com/akhilchandran1/myPortfolio)
 - 🪴 [Plant disease detection using CNN](https://github.com/akhilchandran1/Plant-_disease_detection-CNN-/blob/main/Akhil_Chandran_plant_Disease_Classification.ipynb)
 - 📈 [Exploratory Data Analysis(EDA) and ANN Implementation](https://www.akhilchandran.info/portfolio/data_analysis/eda-ann.html)
 
