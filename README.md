@@ -20,6 +20,12 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 - 👨🏻‍💻 [A portfolio webpage with a voice chat boat support (code)](https://github.com/akhilchandran1/myPortfolio) / [Live preview](https://www.akhilchandran.info/portfolio/sample-web-page-projects/myOldPortfolio/)
 - 🌦 [Weather app (code)](https://github.com/akhilchandran1/myPortfolio/tree/master/weatherApp) / [Live preview](https://www.akhilchandran.info/portfolio/sample-web-page-projects/weatherApp/)
 - 📄 [Paper rock cissor game (code)](https://github.com/akhilchandran1/paper-rockscissor_game)
+- 👨🏻‍💻 [Stock Market Simulator (code - Java)](https://github.com/akhilchandran1/StockMarketSimulator/tree/master/src)
+- 👨🏻‍💻 [Java Pattern Combination (code - Java)](https://github.com/akhilchandran1/JavaPatternCombination/tree/WorkingArea/src)
+- 🌍 [Chrome-Extension (code)](https://github.com/akhilchandran1/Chrome-Extension)
+- 👨🏻‍💻 [Angular-blog-application (code)](https://github.com/akhilchandran1/angular-blog-application)
+- 👾 [Covid19Status (code)](https://github.com/akhilchandran1/Covid19Status)
+- 👨🏻‍💻 [ATM Machine (code - Java)](https://github.com/akhilchandran1/ATM)
 - 🪴 [Plant disease detection using CNN](https://github.com/akhilchandran1/Plant-_disease_detection-CNN-/blob/main/Akhil_Chandran_plant_Disease_Classification.ipynb)
 - 📈 [Exploratory Data Analysis(EDA) and ANN Implementation](https://www.akhilchandran.info/portfolio/data_analysis/eda-ann.html)
 
