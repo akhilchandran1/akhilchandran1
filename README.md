@@ -13,7 +13,7 @@ I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science 
 
 ### Few of my projects:
 
-- 👨🏻‍💻 [Restaurant Management NodeJS-API (currently developing)] (https://github.com/akhilchandran1/Restaurant-Management-NodeJS-API)
+- 👨🏻‍💻 [Restaurant Management NodeJS-API (currently developing)](https://github.com/akhilchandran1/Restaurant-Management-NodeJS-API)
 - 👨🏻‍💻 [My Portfolio (code)](https://github.com/akhilchandran1/My_Portfolio) / [Live preview](https://www.akhilchandran.info/)
 - 👨🏻‍💻 [Project planner (code)](https://github.com/akhilchandran1/project-planner) / [Live preview](https://www.akhilchandran.info/portfolio/sample-web-page-projects/project-planner/)
 - 🎬 [Fevorate movies (code)](https://github.com/akhilchandran1/fevorate-movies-webpage) / [Live preview](https://www.akhilchandran.info/portfolio/sample-web-page-projects/fevorate-movies-webpage/)
