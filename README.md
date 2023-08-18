@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I'm Akhil Chandran from India, currently living in Ireland. Bachelor of Science (Honours) in Computing and IT graduate. I really enjoy learning programming languages and solving problems.
+I'm Akhil Chandran, a Full-stack developer and Graphic Designer. I really enjoy learning programming languages and solving problems.
 
 ## Skills:
 
-* 💻 HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React, Express JS, Angular 8+, TypeScript, Node JS, Python, R, Java, PHP, SQL, JSON
+* 💻 HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React, Express JS, Angular 8+, TypeScript, Node JS, Python, R, Java, PHP, SQL, MongoDB, JSON
 * 📱 Ionic, WordPress
 * 🎨 Photoshop
 
