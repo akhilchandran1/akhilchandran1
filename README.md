@@ -1,21 +1,34 @@
-![Design and Development](https://github.com/akhilchandran1/akhilchandran1/blob/main/My_gitHub_banner.jpg)
+# Hi there, I'm Akhil Chandran 👋
 
-### Hi there 👋
+## 👨‍💻 Full-Stack Developer | 🎨 Graphic Designer
 
-I'm Akhil Chandran, a Full-stack developer and Graphic Designer. I really enjoy learning programming languages and solving problems.
+I'm a passionate developer and designer who loves to merge creativity with technology. I thrive on the challenges of programming and the beauty of design.
 
-## Skills:
+### 🌱 What I'm currently learning:
+- I'm always on the lookout to learn new programming languages and frameworks that enhance my skills and help me grow professionally.
 
-* 💻 HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React, Express JS, Angular 8+, TypeScript, Node JS, Python, R, Java, PHP, SQL, MongoDB, JSON
-* 📱 Ionic, WordPress
-* 🎨 Photoshop
+### 🚀 Technologies I work with:
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Design:** Adobe Photoshop, Adobe Illustrator, Figma
 
-## Contact:
-- 📫 How to reach me: akhildev9216@gmail.com / www.akhilchandran.dev
+### 💡 Projects I'm proud of:
+- **E-commerce Platform:** A full-stack application for online shopping built with React and Node.js.
+- **Design Portfolio:** A collection of my graphic design work showcasing various branding and advertising projects.
 
-[<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/github_blue.png' alt='github' height='40'>](https://github.com/https://github.com/akhilchandran1)  [<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-chandran//)  [<img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/web.png' alt='website' height='40'>](https://www.akhilchandran.dev/)  
+### 📫 How to reach me:
+- **LinkedIn:** https://www.linkedin.com/in/akhil-chandran/
+- **Email:** akhildev9216@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilchandran1&hide=contribs,prs)
+### ✨ Fun fact:
+- When I'm not coding or designing, you'll find me exploring new hiking trails or practicing photography!
+
+Feel free to reach out if you want to talk about possible collaborations or just want to chat about tech and design!
+
+---
+
+Thanks for visiting my profile! 🌟
+
 
 <img src='https://github.com/akhilchandran1/akhilchandran1/blob/main/coding-freak_me.gif' alt='Coding gif picture' width='1500'>
 
