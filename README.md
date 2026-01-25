@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer and designer with a fla
 ---
 
 ## 🌟 About Me
-- **Current Role:** MSc student in Medical Device Software Engineering at DKIT, Ireland
 - **Passions:** Full-stack development, UI/UX design, and building scalable hybrid mobile applications
 
 ---
