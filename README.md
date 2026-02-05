@@ -42,6 +42,7 @@ Academic / Medical
 Web / Application  
 - Full stack client application: backend services, authentication, and responsive UI; deployed with monitoring and maintenance.  
 - Mobile-first service app: API-driven architecture, offline-friendly workflows, and production support.
+- [InvoiceCraft](https://akhilchandran1.github.io/InvoiceCraft/): free invoice generator for startups and sole traders with export-ready outputs.  
 
 **Current Focus**  
 - Regulated healthcare software practices: requirements traceability, verification planning, and documentation rigor.  
@@ -49,6 +50,7 @@ Web / Application
 - Applied machine learning for healthcare data analysis.
 
 **Contact**  
-[![Email](https://img.shields.io/badge/Email-4B4B4B?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B4B4B?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.example.com)
+[![Email](https://img.shields.io/badge/Email-4B4B4B?style=flat&logo=gmail&logoColor=white)](mailto:akhildev9216@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-chandran/)
+[![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-4B4B4B?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12550450/akhil-chandran)
+[![Website](https://img.shields.io/badge/Website-4B4B4B?style=flat&logo=googlechrome&logoColor=white)](https://www.akhilchandran.com)
