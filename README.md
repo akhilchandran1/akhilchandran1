@@ -1,75 +1,54 @@
-# Hi there, I'm Akhil Chandran 👋
+**Professional Headline**  
+MSc Computing (Medical Device Software Engineering) | Java | Full Stack | Healthcare Software
 
-👨‍💻 **Full-Stack Developer** | 🎨 **Graphic Designer** | 🤖 **Tech Enthusiast**
+**Positioning Statement**  
+Computing graduate with a strong Java foundation, experience in machine learning and data analysis, and a track record of delivering web and mobile applications for real clients. Focused on reliable engineering practices and regulated healthcare software.
 
-Welcome to my GitHub profile! I'm a passionate developer and designer with a flair for merging creativity and technology. My goal is to craft innovative solutions and impactful designs that resonate with users and solve real-world challenges.
+**Technology Stack**  
+Core Languages  
+![Java](https://img.shields.io/badge/Java-4B4B4B?style=flat&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B4B4B?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat&logo=postgresql&logoColor=white)
 
----
+Backend & APIs  
+![Spring](https://img.shields.io/badge/Spring-4B4B4B?style=flat&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4B4B4B?style=flat&logo=node.js&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-4B4B4B?style=flat&logo=fastapi&logoColor=white)
 
-## 🌟 About Me
-- **Passions:** Full-stack development, UI/UX design, and building scalable hybrid mobile applications
+Frontend & Mobile  
+![React](https://img.shields.io/badge/React-4B4B4B?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4B4B4B?style=flat&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-4B4B4B?style=flat&logo=flutter&logoColor=white)
 
----
+Data & ML  
+![Pandas](https://img.shields.io/badge/Pandas-4B4B4B?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-4B4B4B?style=flat&logo=scikitlearn&logoColor=white)
 
-## 🚀 Technologies & Tools
-### Programming & Development:
-- **Frontend:** HTML, CSS, JavaScript, React, Angular, Vue, Tailwind CSS, Bootstrap, Ionic, React Native
-- **Backend:** Node.js, Express.js, Next.js, PHP, Laravel, SQL, PostgreSQL, MongoDB, Firebase
-- **Other Languages:** Python, C, C++, R, Java, TypeScript
+Engineering Practices  
+![Testing](https://img.shields.io/badge/Testing-4B4B4B?style=flat&logo=testinglibrary&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4B4B4B?style=flat&logo=githubactions&logoColor=white)
 
-### Databases:
-- SQL/MySQL, PostgreSQL (Relational Databases)
-- MongoDB, Firebase (NoSQL Databases)
+**Professional Experience Summary**  
+- Delivered web and mobile applications through freelance projects, covering discovery, build, and maintenance.  
+- Built backend services and REST APIs, integrated databases, and implemented frontend/mobile experiences.  
+- Worked directly with clients to translate requirements into deployed systems; ongoing support included.  
+- Some projects are based on real client requirements with client details removed.
 
-### Data Analysis:
-- Python (Pandas, NumPy, Matplotlib), R
-- Expertise in statistical analysis, data visualization, and preprocessing
+**Selected Projects**  
+Academic / Medical  
+- Medical device software engineering project: requirements, risk analysis, verification planning, and implementation aligned with regulated software expectations.  
+- Healthcare data analysis project: data cleaning, feature engineering, and model evaluation for clinically relevant datasets.
 
-### Design:
-- **Tools:** Adobe Photoshop, Adobe Illustrator, Figma
-- **Skills:** UI/UX design, Prototyping, Branding
+Web / Application  
+- Full stack client application: backend services, authentication, and responsive UI; deployed with monitoring and maintenance.  
+- Mobile-first service app: API-driven architecture, offline-friendly workflows, and production support.
 
-### Automation:
-- UiPath, Web Scraping
+**Current Focus**  
+- Regulated healthcare software practices: requirements traceability, verification planning, and documentation rigor.  
+- Robust backend services and APIs with clear operational reliability.  
+- Applied machine learning for healthcare data analysis.
 
-### Core Competencies:
-- Object-Oriented Programming, Algorithms, Data Structures
-- Problem Solving, API Documentation
-
----
-
-## 💻 Featured Projects
-### 🌐 **E-commerce Platform**
-- A full-stack shopping application built with **React** and **Node.js**
-- Integrated secure payment gateways and real-time inventory tracking
-
-### 🩺 **Patient Monitoring System**
-- Real-time health data collection using **Arduino** and **C++**
-- Integrated multiple sensors for advanced health monitoring
-
-### 🌱 **Plant Disease Detection**
-- Machine learning model leveraging **OpenCV** and **Django** for frontend visualization
-
-### 🍔 **Burger Shop Web Application**
-- A React-based web app built during IBM's Front-End Development program
-- Features include dynamic menu updates and seamless user interaction
-
----
-
-## 📫 Let's Connect
-- **LinkedIn:** [Akhil Chandran](https://www.linkedin.com/in/akhil-chandran/)
-- **Email:** [akhildev9216@gmail.com](mailto:akhildev9216@gmail.com)
-- **Stack Overflow:** [Akhil Chandran](https://stackoverflow.com/users/12550450/akhil-chandran)
-
----
-
-## ✨ Fun Facts
-- 📸 I enjoy exploring photography in my free time
-- 🌍 Always curious to learn about different cultures and technologies
-
----
-
-### 📌 Want to Collaborate?
-I'm always open to exciting projects and collaborations. Whether it's full-stack development, UI/UX design, or something entirely new, let's build something amazing together! 🌟
-
-Thank you for stopping by! 🚀
+**Contact**  
+[![Email](https://img.shields.io/badge/Email-4B4B4B?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B4B4B?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.example.com)
