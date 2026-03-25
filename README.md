@@ -1,5 +1,5 @@
 **Professional Headline**  
-MSc Computing (Medical Device Software Engineering) | Java | Full Stack | Healthcare Software
+MSc Computing (Medical Device Software Engineering) | Java | Full Stack | Flutter | Healthcare Software
 
 **Positioning Statement**  
 Computing graduate with a strong Java foundation, experience in machine learning and data analysis, and a track record of delivering web and mobile applications for real clients. Focused on reliable engineering practices and regulated healthcare software.
@@ -29,25 +29,24 @@ Engineering Practices
 ![CI/CD](https://img.shields.io/badge/CI/CD-4B4B4B?style=flat&logo=githubactions&logoColor=white)
 
 **Professional Experience Summary**  
-- Delivered web and mobile applications through freelance projects, covering discovery, build, and maintenance.  
-- Built backend services and REST APIs, integrated databases, and implemented frontend/mobile experiences.  
-- Worked directly with clients to translate requirements into deployed systems; ongoing support included.  
-- Some projects are based on real client requirements with client details removed.
+- Delivered web and mobile applications through freelance projects, covering requirements discovery, development, deployment, and maintenance
+- Built backend services and REST APIs, integrated databases, and implemented responsive frontend and mobile solutions
+- Worked directly with clients to translate requirements into production-ready systems, with ongoing support and iteration
+- Experience includes developing and maintaining a live mobile application
+- Some projects are based on real client requirements with anonymised details
 
 **Selected Projects**  
-Academic / Medical  
-- Medical device software engineering project: requirements, risk analysis, verification planning, and implementation aligned with regulated software expectations.  
-- Healthcare data analysis project: data cleaning, feature engineering, and model evaluation for clinically relevant datasets.
+📱 Mobile
+- AIO Shopping List (Google Play) – multi-purpose list management app with offline-first architecture, behavior-based suggestions, and real-world usability
 
-Web / Application  
-- Full stack client application: backend services, authentication, and responsive UI; deployed with monitoring and maintenance.  
-- Mobile-first service app: API-driven architecture, offline-friendly workflows, and production support.
-- [InvoiceCraft](https://akhilchandran1.github.io/InvoiceCraft/): free invoice generator for startups and sole traders with export-ready outputs.  
+🏥 Academic / Medical
+- Medical device software engineering project: requirements analysis, risk management, and verification planning aligned with regulated software standards
+- Healthcare data analysis project: data cleaning, feature engineering, and model evaluation on clinically relevant datasets
 
-**Current Focus**  
-- Regulated healthcare software practices: requirements traceability, verification planning, and documentation rigor.  
-- Robust backend services and APIs with clear operational reliability.  
-- Applied machine learning for healthcare data analysis.
+🌐 Web / Application
+- Full stack client application: backend services, authentication, and responsive UI; deployed with monitoring and maintenance
+- Mobile-first service app: API-driven architecture with offline-friendly workflows and production support
+- InvoiceCraft: free invoice generator for startups and sole traders with export-ready outputs  
 
 **Contact**  
 [![Email](https://img.shields.io/badge/Email-4B4B4B?style=flat&logo=gmail&logoColor=white)](mailto:akhildev9216@gmail.com)
